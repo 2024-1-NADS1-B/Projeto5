@@ -1,4 +1,4 @@
-# FECAP - Sistema de Gestão Escolar
+# FECAP - Fundação de Comérciop Álvares Penteado
 
 ## Grupo: Projeto 5
 
@@ -8,6 +8,7 @@
 ### Professores Orientadores:
 - Prof. Rodnil da Silva
 - Prof. Jose Carlos Buesso Junior
+- 
 
 ## Descrição:
 
@@ -21,16 +22,17 @@ Arduino uno Rev3
 
 ### Estrutura de Página:
 
--Raiz 
-|-> Documentos 
-    |-->Documentação projeto Brigada verde.pdf
-|-->imagens
-|-->src
- |-->Backend
- |-->Frontend
-    |--> dht11_blynkfuncionando
-    |--> Mq-2_buzzerON
-|readme.md
+-Raiz<br>
+<br>
+|-> Documentos<br> 
+    |-->Documentação projeto Brigada verde.pdf<br>
+|-->imagens<br>
+|-->src<br>
+ |-->Backend<br>
+ |-->Frontend<br>
+    |--> dht11_blynkfuncionando<br>
+    |--> Mq-2_buzzerON<br>
+|readme.md<br>
 
 ### Instalação
 
