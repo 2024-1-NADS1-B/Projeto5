@@ -12,7 +12,6 @@
 
 <p align="center">
 <img src="file:///C:/Users/24025815/AppData/Local/Temp/Rar$DIa13972.36786/3fcf6b1e-f0d9-4e78-b980-0cfc32b8e1d5_1_11zon.jpg" alt="Brigada Verde" border="0">
-
 </p>
 
 
