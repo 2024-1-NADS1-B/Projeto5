@@ -11,7 +11,7 @@
 - Prof. Victor Rosetti
 
 <p align="center">
-<img src="file:///C:/Users/24025815/Downloads/3fcf6b1e-f0d9-4e78-b980-0cfc32b8e1d5.jfif" alt="NOME DO JOGO" border="0">
+<img src="file:///C:/Users/24025815/Downloads/3fcf6b1e-f0d9-4e78-b980-0cfc32b8e1d5.jfif" alt="Brigada Verde" border="0">
 </p>
 
 ## Descrição:
